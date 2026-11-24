@@ -34,7 +34,7 @@ Most simple chatbots are one long prompt, so they can drift off-topic or loop on
 
 ## Workflow
 
-![Joke bot workflow graph](joke_bot_workflow.png)
+![Joke bot workflow graph](docs/joke_bot_workflow.png)
 
 | Node | What it does |
 |---|---|
