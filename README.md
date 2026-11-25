@@ -4,7 +4,7 @@
 ![LangGraph](https://img.shields.io/badge/Framework-LangGraph-1C3C3C)
 ![OpenAI](https://img.shields.io/badge/LLM-gpt--4.1--mini-412991?logo=openai&logoColor=white)
 ![Platform](https://img.shields.io/badge/Runs%20on-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Status](https://img.shields.io/badge/status-beta-yellowgreen)
 [![License](https://img.shields.io/github/license/vjabarca/AI-Agent-Joke-Bot)](LICENSE)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vjabarca/AI-Agent-Joke-Bot/blob/main/AI_Joke_Bot.ipynb)
